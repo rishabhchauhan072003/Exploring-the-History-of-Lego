@@ -18,7 +18,3 @@ To get started with this course, you'll need to have a basic understanding of Py
 - pandas library
 - matplotlib library
 - Jupyter Notebooks or any Python IDE
-
-### Installation
-
-1. Clone this repository to your local machine using:
